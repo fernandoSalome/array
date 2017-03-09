@@ -1,0 +1,18 @@
+D:\projetos\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe.config
+D:\projetos\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe
+D:\projetos\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.pdb
+D:\projetos\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csprojResolveAssemblyReference.cache
+D:\projetos\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.Form1.resources
+D:\projetos\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.Properties.Resources.resources
+D:\projetos\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.GenerateResource.Cache
+D:\projetos\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.exe
+D:\projetos\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.pdb
+C:\Users\logonrm\Desktop\SuperValidador de CPF\ValidaCPF\bin\Debug\ValidaCPF.exe.config
+C:\Users\logonrm\Desktop\SuperValidador de CPF\ValidaCPF\bin\Debug\ValidaCPF.exe
+C:\Users\logonrm\Desktop\SuperValidador de CPF\ValidaCPF\bin\Debug\ValidaCPF.pdb
+C:\Users\logonrm\Desktop\SuperValidador de CPF\ValidaCPF\obj\Debug\ValidaCPF.csprojResolveAssemblyReference.cache
+C:\Users\logonrm\Desktop\SuperValidador de CPF\ValidaCPF\obj\Debug\ValidaCPF.Form1.resources
+C:\Users\logonrm\Desktop\SuperValidador de CPF\ValidaCPF\obj\Debug\ValidaCPF.Properties.Resources.resources
+C:\Users\logonrm\Desktop\SuperValidador de CPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.GenerateResource.Cache
+C:\Users\logonrm\Desktop\SuperValidador de CPF\ValidaCPF\obj\Debug\ValidaCPF.exe
+C:\Users\logonrm\Desktop\SuperValidador de CPF\ValidaCPF\obj\Debug\ValidaCPF.pdb
